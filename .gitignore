@@ -1,3 +1,11 @@
+#intellij ignores
+.idea
+out
+*.iml
+
+#ignore my 3rd party
+3rd_party
+
 # Compiled class file
 *.class
 
